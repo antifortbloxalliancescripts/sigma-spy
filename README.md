@@ -6,7 +6,7 @@ Sigma Spy Showcase (Youtube)
 Discord
 Loadstring
 --// Sigma Spy @depso
-loadstring(game:HttpGet("https://raw.githubusercontent.com/0xfinder/Sigma-Spy/refs/heads/main/Main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/antifortbloxalliancescripts/sigma-spy/refs/heads/main/Sigma-Spy-main/Sigma-Spy-main/Main.lua"))()
 Notices 🔔
 Sigma Spy will have bugs, please report any bugs by opening an issue on Github
 If you gave a suggestion, please post it in the discussions
